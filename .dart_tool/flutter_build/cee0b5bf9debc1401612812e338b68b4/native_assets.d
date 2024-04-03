@@ -1,0 +1,1 @@
+ C:\\Users\\willi\\Downloads\\meuapp\\appcontador\\appcontador\\.dart_tool\\flutter_build\\cee0b5bf9debc1401612812e338b68b4\\native_assets.yaml: 
